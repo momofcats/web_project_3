@@ -1,0 +1,11 @@
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__image-container/lead__image-container.css);
+@import url(./__image/lead__image.css);
+@import url(./__image-caption/lead__image-caption.css);
+
+.lead {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}

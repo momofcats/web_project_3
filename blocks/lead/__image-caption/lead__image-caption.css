@@ -1,0 +1,9 @@
+.lead__image-caption {
+	margin-top: 8px;
+	font-size: 10px;
+	line-height: 14px;
+	/* identical to box height, or 140% */
+
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+}
