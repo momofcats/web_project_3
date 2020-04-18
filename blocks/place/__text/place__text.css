@@ -7,3 +7,9 @@
 	width: calc((484 / 984) * 100%);
 	margin-left: calc(100% - (484 / 984 + 460 / 984) * 100%);
 }
+.place__text p {
+	margin: 0 0 24px 0;
+}
+.place__text p:last-child {
+	margin: 0;
+}

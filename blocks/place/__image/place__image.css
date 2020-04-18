@@ -1,4 +1,4 @@
 .place__image {
 	width: calc((460 / 984) * 100%);
-	height: auto;
+	height: calc((460 / 984) * 100%);
 }
