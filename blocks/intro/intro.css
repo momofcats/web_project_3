@@ -2,7 +2,4 @@
 @import url(./__subtitle/intro__subtitle.css);
 @import url(./__main-text/intro__main-text.css);
 @import url(./__travel-info/intro__travel-info.css);
-
-.intro {
-	max-width: 690px;
-}
+@import url(./__container/intro__container.css);
