@@ -1,0 +1,6 @@
+.place__row {
+	display: flex;
+}
+.place__row:first-child {
+	margin-bottom: 48px;
+}

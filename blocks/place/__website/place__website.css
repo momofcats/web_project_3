@@ -1,0 +1,5 @@
+.place__website {
+	width: calc((484 / 984) * 100%);
+	margin-left: calc(100% - (484 / 984 + 460 / 984) * 100%);
+	align-self: flex-end;
+}
