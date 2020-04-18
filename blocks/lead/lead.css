@@ -3,10 +3,11 @@
 @import url(./__image-container/lead__image-container.css);
 @import url(./__image/lead__image.css);
 @import url(./__image-caption/lead__image-caption.css);
-@import url(./__container/lead__container.css);
 
 .lead {
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
+	max-width: 984px;
+	margin: auto;
 }
