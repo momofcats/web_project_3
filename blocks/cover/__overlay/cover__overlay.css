@@ -1,0 +1,10 @@
+.cover__overlay {
+	background-image: url(../../../images/__overlay.png);
+	position: relative;
+	opacity: 1;
+}
+.cover__overlay:hover {
+	opacity: 0.3;
+	transition: opacity 250ms linear;
+	cursor: pointer;
+}
