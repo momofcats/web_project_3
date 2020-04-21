@@ -1,10 +1,8 @@
 .place__title {
 	align-self: flex-end;
-	font-family: Inter;
-	font-style: normal;
 	font-weight: 900;
 	font-size: 72px;
-	line-height: 76px;
+	line-height: 0.9;
 	max-width: 460px;
 	flex: 1 1 0px;
 	margin: 0 40px 0 0;

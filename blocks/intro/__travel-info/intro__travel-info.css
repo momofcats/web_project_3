@@ -1,9 +1,9 @@
 .intro__travel-info {
 	font-weight: bold;
 	font-size: 12px;
-	line-height: 18px;
+	line-height: 1.5;
 	list-style-type: none;
 	padding: 0;
-	margin-bottom: 92px;
+	margin: 0;
 	max-width: 690px;
 }
