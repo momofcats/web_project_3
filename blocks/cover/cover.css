@@ -2,6 +2,7 @@
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__overlay/cover__overlay.css);
+@import url(./__text-box/cover__text-box.css);
 
 .cover {
 	max-width: 1184px;
@@ -9,12 +10,4 @@
 	align-items: center;
 	position: relative;
 	z-index: 1;
-}
-.cover__text-box {
-	z-index: 2;
-	width: 656px;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
 }

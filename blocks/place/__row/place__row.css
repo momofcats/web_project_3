@@ -2,3 +2,14 @@
 	display: flex;
 	margin-bottom: 48px;
 }
+
+.place__row:last-child {
+	margin-bottom: 0;
+}
+
+@media screen and (max-width: 320px) {
+	.place__row {
+		margin-bottom: 32px;
+		flex-wrap: wrap;
+	}
+}
