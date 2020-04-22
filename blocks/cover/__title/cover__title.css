@@ -7,9 +7,17 @@
 	padding-bottom: 32px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 754px) {
+	.cover__title {
+		font-size: 10vw;
+		padding-bottom: 5vw;
+	}
+}
+
+/*@media screen and (max-width: 320px) {
 	.cover__title {
 		font-size: 32px;
 		padding-bottom: 16px;
 	}
 }
+*/

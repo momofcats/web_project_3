@@ -2,6 +2,8 @@
 	font-weight: normal;
 	font-size: 18px;
 	line-height: 1.6;
+	flex: auto;
+	width: calc(49% - 20px);
 }
 .place__text p {
 	margin: 0 0 24px 0;

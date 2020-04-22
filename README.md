@@ -1,20 +1,12 @@
 # Project 3: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
+[link to project]()
 
-**Intro**
+## Description and functionality
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+The project is a part of a Practicum curriculum that is teaching students advanced HTML, CSS and adaptive web design. Additionally, the project is teaching implementation of the BEM convention to a project.
+The page is structured using semantic elements. The page is split Blocks, elements and modifiers are named according to BEM convention. Stylesheets are located in a blocks folder. All styles imported in a index.css file which is linked in the head of CSS style. The webpage layout is made to work for different screen resolutions. Strarting from 320px and going over 1280px.
 
-**Figma**
+## Technologies and techniques
 
-* [Link to the project on Figma](https://www.figma.com/file/lNsn9aE1Be6bvg9FeAzRXT/Sprint-3-From-Portland-to-Portland-desktop-mobile?node-id=0%3A1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+The page layout is made utilizing CSS and HTML5. Positioning of blocks and elements rely on flexbox and grid. Link and overlay hover effects are created using transition property. The layout for different screen sizes is adjusted using media querries.

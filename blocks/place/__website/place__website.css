@@ -1,5 +1,7 @@
 .place__website {
 	align-self: flex-end;
+	flex: auto;
+	width: calc(49% - 20px);
 }
 
 @media screen and (max-width: 320px) {
