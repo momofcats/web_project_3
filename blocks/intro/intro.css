@@ -9,10 +9,9 @@
 	padding-top: 114px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 769px) and (max-width: 1270px) {
 	.intro {
 		padding-left: 48px;
-		padding-right: 286px;
 	}
 }
 
