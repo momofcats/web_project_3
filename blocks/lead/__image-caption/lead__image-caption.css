@@ -6,7 +6,7 @@
 	text-transform: uppercase;
 }
 
-@media screen and (min-width: 321px) and (max-width: 928px) {
+@media screen and (min-width: 321px) and (max-width: 1023px) {
 	.lead__image-caption {
 		padding-left: 24px;
 	}
