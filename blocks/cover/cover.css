@@ -10,6 +10,7 @@
   height: 57vw;
   background-image: url('../../images/route-66.png');
   background-size: cover;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 1024px) {
