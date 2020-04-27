@@ -5,12 +5,6 @@
   flex: auto;
   width: calc(49% - 20px);
 }
-.place__text p {
-  margin: 0 0 24px 0;
-}
-.place__text p:last-child {
-  margin: 0;
-}
 
 @media screen and (max-width: 768px) {
   .place__text {
