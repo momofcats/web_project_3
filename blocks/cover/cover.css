@@ -1,13 +1,13 @@
-@import url(./__background/cover__background.css);
-@import url(./__title/cover__title.css);
-@import url(./__subtitle/cover__subtitle.css);
-@import url(./__overlay/cover__overlay.css);
-@import url(./__text-box/cover__text-box.css);
+@import url('./__background/cover__background.css');
+@import url('./__title/cover__title.css');
+@import url('./__subtitle/cover__subtitle.css');
+@import url('./__overlay/cover__overlay.css');
+@import url('./__text-box/cover__text-box.css');
 
 .cover {
-	max-width: 1184px;
-	margin: auto;
-	align-items: center;
-	position: relative;
-	z-index: 1;
+  max-width: 1184px;
+  margin: auto;
+  align-items: center;
+  position: relative;
+  z-index: 1;
 }
