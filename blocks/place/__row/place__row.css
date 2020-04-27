@@ -1,20 +1,20 @@
 .place__row {
-	display: flex;
-	margin-bottom: 48px;
+  display: flex;
+  margin-bottom: 48px;
 }
 
 .place__row:last-child {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 447px) {
-	.place__row {
-		flex-wrap: wrap;
-		justify-content: center;
-	}
+  .place__row {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
 @media screen and (max-width: 320px) {
-	.place__row {
-		margin-bottom: 32px;
-	}
+  .place__row {
+    margin-bottom: 32px;
+  }
 }
