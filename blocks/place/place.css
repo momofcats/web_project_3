@@ -7,8 +7,10 @@
 @import url('./__text/place__text.css');
 @import url('./__paragraph/place__paragraph.css');
 .place {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 47% 49%;
+  grid-auto-rows: min-content;
+  grid-gap: 48px 40px;
   margin-bottom: 80px;
 }
 
@@ -16,14 +18,24 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .place {
-    margin-bottom: 72px;
+    grid-column-gap: 32px;
   }
 }
 
+@media screen and (max-width: 768px) {
+  .place {
+    margin-bottom: 72px;
+    grid-column-gap: 28px;
+  }
+}
+
+
 @media screen and (max-width: 320px) {
   .place {
+    grid-template-columns: 100%;
+    grid-gap: 32px;
     margin-bottom: 48px;
   }
 }
