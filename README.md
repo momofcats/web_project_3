@@ -1,6 +1,6 @@
 # Project 3: From Portland to Portland
 
-[link to project](https://momofcats.github.io/web_project_3/index.html)
+[Project Demo](https://momofcats.github.io/web_project_3/index.html)
 
 ## Description and functionality
 
